@@ -1,0 +1,4 @@
+selenium==4.16.0
+msedge-selenium-tools==3.141.4
+pandas==2.1.4
+python-dotenv==1.0.0 
