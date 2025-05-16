@@ -1,0 +1,1 @@
+I was not able to get this code to work. Indeed's bot detection is too strong, it would flag my request as the browser being unsecure. This code was my first attempt at using cursor and creating software for pulling all the jobs I applied to.
